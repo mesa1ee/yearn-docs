@@ -1,6 +1,6 @@
 # 治理和运营
 
-自[YIP-61：治理2.0](https://gov.yearn.finance/t/yip-61-governance-2-0/10460)于2021年4月25日通过以来, Yearn已开始过渡到**Multi-DAO(多去中心化自治组织)**的结构，而这个新结构将由**约束性的委派(Constrained Delegation)**来管理。这个流程将使协议开发过程不再受官僚制度的约束，并可继续保持足够的去中心化水平。
+自[YIP-61：治理2.0](https://gov.yearn.finance/t/yip-61-governance-2-0/10460)于2021年4月25日通过以来, Yearn已开始过渡到 **Multi-DAO(多去中心化自治组织)** 的结构，而这个新结构将由 **约束性的委派(Constrained Delegation)** 来管理。这个流程将使协议开发过程不再受官僚制度的约束，并可继续保持足够的去中心化水平。
 
 Multi-DAO是多种为协议贡献的DAOs（去中心化自治组织）。这些独立的团体是由YFI持有者，yTeams和Multisig组成的。
 
